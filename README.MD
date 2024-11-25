@@ -19,10 +19,81 @@ A **Relational Database Management System (RDBMS)** is a type of DBMS that struc
 
 ## Repository Contents
 
-This repository contains materials related to MySQL and Microsoft SQL Server. For each lecture, you will find:
+This repository is designed to provide a comprehensive course on **MySQL** and **Microsoft SQL Server**, two widely used RDBMS platforms. The course covers fundamental and advanced topics, with each lecture focusing on a specific aspect of RDBMS.
 
-- **Two SQL Files**: Each lecture folder includes one SQL file tailored for MySQL and another for SQL Server.
-- **Lecture Guides**: Each lecture folder contains a comprehensive README file detailing the concepts covered in the lecture. These guides include explanations of SQL syntax and relational concepts used in the lecture.
+### Course Outline
+
+Below is the list of lectures included in this course. Each lecture is accompanied by:
+
+- **Two SQL Files**: One for MySQL and one for SQL Server.
+- **Lecture Guide**: A detailed README file explaining the topic and SQL scripts.
+
+#### Lectures:
+
+1. **Lecture01-DatabaseAndTableCreationAndDataInsertion**  
+   - Overview of databases and tables  
+   - Creating databases and tables  
+   - Inserting data into tables  
+
+2. **Lecture02-DatabaseOperationsAndDataManipulation**  
+   - CRUD operations (Create, Read, Update, Delete)  
+   - Using `SELECT` with conditions (`WHERE`)  
+   - Data modification commands (`INSERT`, `UPDATE`, `DELETE`)  
+
+3. **Lecture03-AggregateFunctionsAndTableAlteration**  
+   - Using aggregate functions (`SUM`, `AVG`, `COUNT`, etc.)  
+   - Altering tables (adding/removing columns)  
+   - Basic data analysis with SQL  
+
+4. **Lecture04-DatabaseRelationshipsAndKeys**  
+   - Understanding primary keys, foreign keys, and unique constraints  
+   - Creating and managing relationships (One-to-One, One-to-Many, Many-to-Many)  
+   - Introduction to joins  
+
+5. **Lecture05-SQLJoinsAndViews**  
+   - Types of joins (Inner, Left, Right, Full, Cross)  
+   - Creating and managing database views  
+   - Querying data through views  
+
+6. **Lecture06-SubqueriesAndNestedQueries**  
+   - Introduction to subqueries  
+   - Writing nested queries  
+   - Performance considerations for complex queries  
+
+7. **Lecture07-StoredProceduresAndFunctions**  
+   - Writing stored procedures for reusable logic  
+   - Creating user-defined functions  
+   - Parameterized queries and error handling  
+
+8. **Lecture08-TriggersAndTransactions**  
+   - Creating and using triggers for automated tasks  
+   - Understanding transactions (`COMMIT`, `ROLLBACK`, Savepoints)  
+   - Ensuring data consistency with transactions  
+
+9. **Lecture09-IndexesAndPerformanceOptimization**  
+   - Types of indexes (Clustered, Non-Clustered)  
+   - Improving query performance  
+   - Best practices for database optimization  
+
+10. **Lecture10-DataSecurityAndUserManagement**  
+    - Managing roles and permissions  
+    - Securing sensitive data with encryption  
+    - User creation and management  
+
+11. **Lecture11-AdvancedQueryTechniques**  
+    - Common Table Expressions (CTEs)  
+    - Window functions for advanced querying  
+    - Recursive queries  
+
+12. **Lecture12-DatabaseBackupAndRecovery**  
+    - Backup strategies in MySQL and SQL Server  
+    - Restoring databases  
+    - Disaster recovery planning  
+
+13. **Lecture13-NoSQLIntegrationAndHybridSystems**  
+    - Overview of NoSQL databases  
+    - Integrating RDBMS with NoSQL for hybrid systems  
+    - Practical examples of RDBMS and NoSQL usage  
 
 ### Comments and Syntax
 
