@@ -97,15 +97,15 @@ A **Transaction** is a sequence of operations that are executed as a single unit
 ```sql
 BEGIN TRANSACTION;
 
--- Deduct money from Alice's account
+-- Deduct money from Yousuf's account
 UPDATE Accounts
 SET Balance = Balance - 1000.00
-WHERE AccountHolder = 'Alice';
+WHERE AccountHolder = 'Yousuf';
 
--- Add money to Bob's account
+-- Add money to Muneeb's account
 UPDATE Accounts
 SET Balance = Balance + 1000.00
-WHERE AccountHolder = 'Bob';
+WHERE AccountHolder = 'Muneeb';
 
 -- Commit the transaction
 COMMIT;
