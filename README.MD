@@ -106,8 +106,11 @@ For further reading and official documentation, you can refer to:
 - [MySQL Documentation](https://dev.mysql.com/doc/)
 - [Microsoft SQL Server Documentation](https://docs.microsoft.com/en-us/sql/sql-server/)
 
-## Credits
+## Credits  
 
-This course has been designed, organized, and prepared by [Yousuf Naveed Khan](https://pk.linkedin.com/in/yousufnaveedkhan). Special thanks to the contributors and the community for their invaluable resources and support.
+This course has been meticulously designed, organized, and prepared by [Yousuf Naveed Khan](https://pk.linkedin.com/in/yousufnaveedkhan) and [Muneeb Hassan Siddiqui](https://github.com/muneebhassansiddiqui).  
 
-Feel free to explore the materials and utilize the resources provided. If you have any questions or need further assistance, please do not hesitate to reach out.
+Special thanks to the developer community and resources that supported the creation of this repository.  
+
+Feel free to explore the materials and utilize the resources provided. If you have any questions or need further assistance, please do not hesitate to reach out.  
+
